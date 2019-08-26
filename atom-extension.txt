@@ -1,0 +1,11 @@
+atom-autocomplete-php
+drunken-php
+file-icons
+ide-php
+minimap
+my-package
+php-cs-fixer
+php-fmt
+
+
+http://beautifytools.com/php-beautifier.php

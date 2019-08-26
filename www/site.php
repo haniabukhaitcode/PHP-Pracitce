@@ -13,22 +13,21 @@
 
 
   <?php
+  $name = "John";
+  $age = 30;
+  if ($age < 30)
+  {
 
+      echo ("<h1> my name is $name and my age is $age </h1>");
+  }
+  else
+  {
+      echo ("<h1>the person $name is too old he is above $age</h1>");
+  }
+  ?>
 
-
-    $name= "John";
-    $age= 30;
-if ($age<30) {
-
-
-    echo("<h1> my name is $name and my age is $age </h1>");
-} else {
-    echo ("<h1>the person $name is too old he is above $age</h1>");
-}
-
-
-        ?>
 
 </body>
+
 
 </html>
