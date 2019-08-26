@@ -1,0 +1,8 @@
+https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
+www.netbeens.org/downloads
+open editor go to tools>plugins>available plugins> type "darcula" check box and install
+restart ide
+change font tools>options>apearance>darcula look and feel
+restart again (everytime u change settings)
+tools>options>fonts & colors>import>browse to "C:\localhost\themes\clever-techie-theme.zip"
+
